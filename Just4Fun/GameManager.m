@@ -175,7 +175,7 @@ static GameManager *manager = Nil;
 
 - (void)willGetIntoScreen:(Sprite *)sprite
 {
-    
+    //test aaa
 }
 
 - (void)willGetOutScreen:(Sprite *)sprite
