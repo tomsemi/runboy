@@ -185,8 +185,8 @@ static GameManager *manager = Nil;
         return;
     }
     sprite.shouldDestory = YES;
+    //test gogogo
 }
-
 
 #pragma ButtonEvent
 
